@@ -1,0 +1,5 @@
+Resources:
+  MyFirstS3Bucket: #Logical ID
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: ganavarro #Fisical ID
